@@ -2,7 +2,6 @@ from aiogram.types import (InlineKeyboardMarkup, InlineKeyboardButton,
                            ReplyKeyboardMarkup, KeyboardButton)
 from aiogram.utils.keyboard import InlineKeyboardBuilder,ReplyKeyboardBuilder
 from database.requests import *
-from aiogram_inline_paginations.paginator import Paginator
 
 
 
